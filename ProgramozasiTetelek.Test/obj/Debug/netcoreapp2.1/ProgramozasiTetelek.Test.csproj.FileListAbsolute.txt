@@ -1,0 +1,34 @@
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.deps.json
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.runtimeconfig.json
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.runtimeconfig.dev.json
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.dll
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.pdb
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.dll
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.pdb
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek.Test\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.csprojAssemblyReference.cache
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek.Test\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.csproj.CoreCompileInputs.cache
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek.Test\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.AssemblyInfoInputs.cache
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek.Test\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.AssemblyInfo.cs
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek.Test\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.csproj.CopyComplete
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek.Test\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.dll
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek.Test\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.pdb
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.deps.json
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.runtimeconfig.json
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.runtimeconfig.dev.json
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.dll
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.pdb
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.dll
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek.Test\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.pdb
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek.Test\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.csprojAssemblyReference.cache
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek.Test\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.csproj.CoreCompileInputs.cache
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek.Test\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.AssemblyInfoInputs.cache
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek.Test\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.AssemblyInfo.cs
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek.Test\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.csproj.CopyComplete
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek.Test\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.dll
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek.Test\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.Test.pdb

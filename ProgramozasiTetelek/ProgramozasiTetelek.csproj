@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Description>Informatika érettségi programozás -t segítő csomag.</Description>
+    <Authors></Authors>
+    <Company>Poroszkai Attila and Co.</Company>
+    <Copyright>MIT</Copyright>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <NeutralLanguage>hu-HU</NeutralLanguage>
+    <Version>0.1.0</Version>
+  </PropertyGroup>
+
+</Project>

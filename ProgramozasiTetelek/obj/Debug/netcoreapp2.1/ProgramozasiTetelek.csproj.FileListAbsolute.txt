@@ -1,0 +1,18 @@
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.deps.json
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.dll
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.pdb
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.csproj.CoreCompileInputs.cache
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.AssemblyInfoInputs.cache
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.AssemblyInfo.cs
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.dll
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.pdb
+C:\Users\hunostor\source\repos\Zoltán Karsa C sharp programozás jegyzet\ProgramozasiTetelek\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.csprojAssemblyReference.cache
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.deps.json
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.dll
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.pdb
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.csprojAssemblyReference.cache
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.csproj.CoreCompileInputs.cache
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.AssemblyInfoInputs.cache
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.AssemblyInfo.cs
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.dll
+C:\Users\hunostor\source\repos\erettsegi\ProgramozasiTetelek\obj\Debug\netcoreapp2.1\ProgramozasiTetelek.pdb
