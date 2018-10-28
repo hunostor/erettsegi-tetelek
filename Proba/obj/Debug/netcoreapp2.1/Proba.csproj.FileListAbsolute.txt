@@ -1,0 +1,14 @@
+C:\Users\hunostor\source\repos\erettsegi\Proba\bin\Debug\netcoreapp2.1\Proba.deps.json
+C:\Users\hunostor\source\repos\erettsegi\Proba\bin\Debug\netcoreapp2.1\Proba.runtimeconfig.json
+C:\Users\hunostor\source\repos\erettsegi\Proba\bin\Debug\netcoreapp2.1\Proba.runtimeconfig.dev.json
+C:\Users\hunostor\source\repos\erettsegi\Proba\bin\Debug\netcoreapp2.1\Proba.dll
+C:\Users\hunostor\source\repos\erettsegi\Proba\bin\Debug\netcoreapp2.1\Proba.pdb
+C:\Users\hunostor\source\repos\erettsegi\Proba\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.dll
+C:\Users\hunostor\source\repos\erettsegi\Proba\bin\Debug\netcoreapp2.1\ProgramozasiTetelek.pdb
+C:\Users\hunostor\source\repos\erettsegi\Proba\obj\Debug\netcoreapp2.1\Proba.csprojAssemblyReference.cache
+C:\Users\hunostor\source\repos\erettsegi\Proba\obj\Debug\netcoreapp2.1\Proba.csproj.CoreCompileInputs.cache
+C:\Users\hunostor\source\repos\erettsegi\Proba\obj\Debug\netcoreapp2.1\Proba.AssemblyInfoInputs.cache
+C:\Users\hunostor\source\repos\erettsegi\Proba\obj\Debug\netcoreapp2.1\Proba.AssemblyInfo.cs
+C:\Users\hunostor\source\repos\erettsegi\Proba\obj\Debug\netcoreapp2.1\Proba.csproj.CopyComplete
+C:\Users\hunostor\source\repos\erettsegi\Proba\obj\Debug\netcoreapp2.1\Proba.dll
+C:\Users\hunostor\source\repos\erettsegi\Proba\obj\Debug\netcoreapp2.1\Proba.pdb

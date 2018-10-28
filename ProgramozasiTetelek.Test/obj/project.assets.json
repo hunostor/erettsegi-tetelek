@@ -1617,6 +1617,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "ProgramozasiTetelek/0.1.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/ProgramozasiTetelek.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProgramozasiTetelek.dll": {}
+        }
       }
     }
   },
@@ -5712,6 +5722,11 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "ProgramozasiTetelek/0.1.0": {
+      "type": "project",
+      "path": "../ProgramozasiTetelek/ProgramozasiTetelek.csproj",
+      "msbuildProject": "../ProgramozasiTetelek/ProgramozasiTetelek.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5719,7 +5734,8 @@
       "MSTest.TestAdapter >= 1.3.2",
       "MSTest.TestFramework >= 1.3.2",
       "Microsoft.NET.Test.Sdk >= 15.8.0",
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "ProgramozasiTetelek >= 0.1.0"
     ]
   },
   "packageFolders": {
@@ -5752,7 +5768,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\hunostor\\source\\repos\\erettsegi\\ProgramozasiTetelek\\ProgramozasiTetelek.csproj": {
+              "projectPath": "C:\\Users\\hunostor\\source\\repos\\erettsegi\\ProgramozasiTetelek\\ProgramozasiTetelek.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

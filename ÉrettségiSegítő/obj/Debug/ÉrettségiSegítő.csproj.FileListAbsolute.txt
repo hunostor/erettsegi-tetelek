@@ -1,0 +1,6 @@
+C:\Users\hunostor\source\repos\erettsegi\ÉrettségiSegítő\bin\Debug\ÉrettségiSegítő.dll
+C:\Users\hunostor\source\repos\erettsegi\ÉrettségiSegítő\bin\Debug\ÉrettségiSegítő.pdb
+C:\Users\hunostor\source\repos\erettsegi\ÉrettségiSegítő\obj\Debug\ÉrettségiSegítő.csprojAssemblyReference.cache
+C:\Users\hunostor\source\repos\erettsegi\ÉrettségiSegítő\obj\Debug\ÉrettségiSegítő.csproj.CoreCompileInputs.cache
+C:\Users\hunostor\source\repos\erettsegi\ÉrettségiSegítő\obj\Debug\ÉrettségiSegítő.dll
+C:\Users\hunostor\source\repos\erettsegi\ÉrettségiSegítő\obj\Debug\ÉrettségiSegítő.pdb
