@@ -11,7 +11,7 @@
           "MSTest.TestAdapter": "1.3.2",
           "MSTest.TestFramework": "1.3.2",
           "Microsoft.NET.Test.Sdk": "15.8.0",
-          "ProgramozasiTetelek": "0.1.0"
+          "ProgramozasiTetelek": "0.2.0"
         },
         "runtime": {
           "ProgramozasiTetelek.Test.dll": {}
@@ -1014,7 +1014,7 @@
           }
         }
       },
-      "ProgramozasiTetelek/0.1.0": {
+      "ProgramozasiTetelek/0.2.0": {
         "runtime": {
           "ProgramozasiTetelek.dll": {}
         }
@@ -1517,7 +1517,7 @@
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
     },
-    "ProgramozasiTetelek/0.1.0": {
+    "ProgramozasiTetelek/0.2.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

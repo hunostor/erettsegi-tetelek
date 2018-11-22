@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "ProgramozasiTetelek/0.1.0": {
+      "ProgramozasiTetelek/0.3.0": {
         "runtime": {
           "ProgramozasiTetelek.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "ProgramozasiTetelek/0.1.0": {
+    "ProgramozasiTetelek/0.3.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
