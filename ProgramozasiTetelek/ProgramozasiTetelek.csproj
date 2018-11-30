@@ -2,20 +2,22 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <Description>Informatika érettségi programozás -t segítő csomag.
+    <Description>Informatika érettségi tételek programozás -t segítő csomag.
 Három tétel részletes kifejtése, példakódokkal.
 - Összegzés
 - Kiválasztás (max, min)
-- Eldöntés</Description>
+- Eldöntés
+- Buborékos rendezés</Description>
     <Authors>Poroszkai Attila</Authors>
     <Company>Poroszkai Attila and Co.</Company>
     <Copyright>MIT</Copyright>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <NeutralLanguage>hu-HU</NeutralLanguage>
-    <Version>0.3.0</Version>
+    <Version>0.4.0</Version>
     <RepositoryUrl>https://github.com/hunostor/erettsegi-tetelek</RepositoryUrl>
     <RepositoryType>https://opensource.org/licenses/MIT</RepositoryType>
-    <PackageReleaseNotes>Eldöntés tétele hozzáadva</PackageReleaseNotes>
+    <PackageReleaseNotes>Buborékos rendezés tétele hozzáadva</PackageReleaseNotes>
+    <AssemblyVersion>0.4.0.0</AssemblyVersion>
   </PropertyGroup>
 
 </Project>

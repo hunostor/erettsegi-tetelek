@@ -208,7 +208,7 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "ProgramozasiTetelek/0.3.0": {
+      "ProgramozasiTetelek/0.4.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "compile": {
@@ -684,7 +684,7 @@
         "netstandard.library.nuspec"
       ]
     },
-    "ProgramozasiTetelek/0.3.0": {
+    "ProgramozasiTetelek/0.4.0": {
       "type": "project",
       "path": "../ProgramozasiTetelek/ProgramozasiTetelek.csproj",
       "msbuildProject": "../ProgramozasiTetelek/ProgramozasiTetelek.csproj"
@@ -693,7 +693,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.NETCore.App >= 2.1.0",
-      "ProgramozasiTetelek >= 0.3.0"
+      "ProgramozasiTetelek >= 0.4.0"
     ]
   },
   "packageFolders": {

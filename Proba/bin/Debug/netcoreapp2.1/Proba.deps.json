@@ -8,13 +8,13 @@
     ".NETCoreApp,Version=v2.1": {
       "Proba/1.0.0": {
         "dependencies": {
-          "ProgramozasiTetelek": "0.2.0"
+          "ProgramozasiTetelek": "0.3.0"
         },
         "runtime": {
           "Proba.dll": {}
         }
       },
-      "ProgramozasiTetelek/0.2.0": {
+      "ProgramozasiTetelek/0.3.0": {
         "runtime": {
           "ProgramozasiTetelek.dll": {}
         }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ProgramozasiTetelek/0.2.0": {
+    "ProgramozasiTetelek/0.3.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
